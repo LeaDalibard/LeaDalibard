@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently looking for an internship (starting in 02/21)
+- 🔭 I’m currently **looking for an internship** (starting in 02/21)
 - 🌱 I’m currently Junior Web Developer at BeCode.org
 
 ---
